@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(253, 215, 242);
+    color:rebeccapurple;
+    font-family:sans-serif;
+    margin-left: 2.5%;
+    margin-top: 2%;
+}
+.nascimento{
+    margin-left:22%;
+    display: block;
+}
+fieldset{
+    margin-left: 20%;
+}
+.subtitulo{
+    margin-left:35%;
+}
+.titulo{
+    margin-left: 36%;
+}
+.campo{
+    color:snow;
+    border: none;
+}
+select, input, option{
+    background-color:rgb(248, 229, 247);
+}
+.campo input, select, .nascimento input{
+    border-radius: 5px;
+}
+.sel{
+    margin-left: 20%;
+    
+}
+.botao{
+    font-size: 1.2em;
+    background-color:rebeccapurple;
+    color:snow;
+    font-family:sans-serif;
+    padding: 0.2em 0.6em;
+    margin-left:40%;
+}
